@@ -5,8 +5,8 @@ The goal of this project was to evaluate the total number of employees that will
 
 # RESULTS
 
-Total eligible employees for retirement:  41380
+- Total eligible employees for retirement:  41380
 
-Below is the Retiring Tites and count per each title:
+ - Below is the Retiring Tites and count per each title:
 
 ![image](https://user-images.githubusercontent.com/85530690/127759069-952fdc9a-f9bc-4bd7-95b1-74edebd4dfa7.png)
