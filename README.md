@@ -1,9 +1,12 @@
 # Pewlett-Hackard-Analysis
 
 # CHALLENGE OVERVIEW
-The goal of this project was to evaluate the total number of employees that will be retiring.  Since there are a lot of employees and the longevity of employees have been quite long, it was crucial to understand retirees and plan for human resources to start recruiting replacements.   The data collected will allow us to review and understand how this will affect multiple departments.   Lastly, there is also an opportunity for these employees to be part of a mentorship program as well which will be extremely beneficial for incoming applicants.
+The goal of this project was to evaluate the total number of employees that will be retiring at Pewlett Hackard. The data collected will allow us to review and understand how this will affect multiple departments/orgs and better prepare for the "“silver tsunami”   Lastly, there is also an opportunity for these employees to be part of a mentorship program as well which will be extremely beneficial for incoming applicants.  Results below will break down the data tables for eligible employees which will also be evaluated by title.
 
 # RESULTS
-Current total number of employees:   4130
 
+Total eligible employees for retirement:  41380
 
+Below is the Retiring Tites and count per each title:
+
+![image](https://user-images.githubusercontent.com/85530690/127759069-952fdc9a-f9bc-4bd7-95b1-74edebd4dfa7.png)
