@@ -10,3 +10,5 @@ The goal of this project was to evaluate the total number of employees that will
  - Below is the Retiring Tites and count per each title:
 
 ![image](https://user-images.githubusercontent.com/85530690/127759069-952fdc9a-f9bc-4bd7-95b1-74edebd4dfa7.png)
+
+- Since there are employees that may have been with the company long term and been promoted or moved departments, there was a clean list of data created to ensure that there were no duplicates.  The data can be found here:  unique_titles.csv
