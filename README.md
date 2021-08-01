@@ -12,3 +12,7 @@ The goal of this project was to evaluate the total number of employees that will
 ![image](https://user-images.githubusercontent.com/85530690/127759069-952fdc9a-f9bc-4bd7-95b1-74edebd4dfa7.png)
 
 - Since there are employees that may have been with the company long term and been promoted or moved departments, there was a clean list of data created to ensure that there were no duplicates.  The data can be found here:  unique_titles.csv
+
+- The mentorship program data shows that there is a total of 1,941 employees that qualify.   Here is a chart of breakdown per department:
+
+![mentorship_chart](https://user-images.githubusercontent.com/85530690/127759440-90bb7ef4-953a-438b-abce-f041a6a01231.png)
