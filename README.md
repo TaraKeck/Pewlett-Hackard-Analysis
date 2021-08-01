@@ -19,6 +19,14 @@ The goal of this project was to evaluate the total number of employees that will
 
 # SUMMARY
 
-The total number of roles 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+The roles that would neeed to be filled is as follows:
+- Senior Engineer - 29415 employees
+- Engineer - 14221 employees
+- Senior Staff - 8047 employees
+- Technique Leaser - 4502 employees
+- Assistant Engineer - 1761 employees
+
+It would be up to Human Resources to do a deeper dive to see if there are any roles that are priority to ensure smooth transitions of roles.  
+There are a total of 1,940 retirement ready employees that are eligible for the mentorship program.   There would be enough mentors to support this program but may not be sustainable if company has initiatives for growth.  There would be more meetings needed with team manangers and human resources to discuss future employment hiring goals.
+
+
